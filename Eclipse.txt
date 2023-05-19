@@ -1,0 +1,15 @@
+IDE :集成开发环境
+integrated development environment
+
+web
+ javaEE(Servlet,jsp)
+
+ASP-->ASP.Net
+
+IDE:
+JBuildder(吃内存，宝蓝公司)
+Eclipse:日食(IBM公司，交给Eclipse Foundation免费)-->java(SUN公司-->Oracl公司)
+Eclipse:基于Java开发一套IDE（前提：安装JDK），用于开发Java
+Tomcat:基于Java开发的一套Server(前提：安装JDK)
+一个JDK-->Tomcat
+             -->Eclipse
